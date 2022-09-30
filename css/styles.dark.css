@@ -1,0 +1,28 @@
+html{background-color: #3d3d3d;}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.hidden {
+    visibility: hidden;
+}
+.button-active 
+{
+    background-color: #212121;
+    color: #ffff;
+    float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+/* Dark mode colors
+.darkmode {
+    color: #3d3d3d;
+}
+.darkmode2 {
+    color: #212121;
+}
+*/

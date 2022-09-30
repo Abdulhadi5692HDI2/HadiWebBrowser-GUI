@@ -1,0 +1,19 @@
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.hidden {
+    visibility: hidden;
+}
+.button-active 
+{
+    background-color: #3d3d3d;
+    color: #ffff;
+    float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
